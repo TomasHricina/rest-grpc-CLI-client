@@ -1,0 +1,20 @@
+[
+    {   
+        "uuid": "a123",
+        "create_datetime": "2020-03-17",  
+        "size": 2000,
+        "mimetype": "jpeg",
+        "name": "cat.jpeg",
+        "data": "safdfds"
+    },
+
+    {   
+        "uuid": "123456",
+        "create_datetime": "2020-03-17",  
+        "size": 1000,
+        "mimetype": "jpeg",
+        "name": "dog.jpeg",
+        "data": "12345678910"
+    }
+
+]
