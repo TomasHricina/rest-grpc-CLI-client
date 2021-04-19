@@ -1,12 +1,12 @@
-# rest-grpc-CLI-client
-CLI application which retrieves and prints data from either REST or gRPC server
+# rest-grpc-CLI-client  
+CLI application which retrieves and prints data from either REST or gRPC server  
 
-Dependencies:
-pytest
-pytest-httpserver     # for testing REST HTTP client
-flask                 # bonus: for testing on real server
+Dependencies:  
+pytest  
+pytest-httpserver     # for testing REST HTTP client  
+flask                 # bonus: for testing on real server  
 
-Example local usage:
+Example local usage:  
 
 Test UUID = 123456
 
