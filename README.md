@@ -23,8 +23,6 @@ grpc:
 python3 main.py --backend grpc stat 123456
 python3 main.py --backend grpc read 123456 --chunk 7  # stream chunk_size = 7
 
-# Database is stored in db.json
-
 Testing:
 
 For REST, the test can be run in isolation with:
